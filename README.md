@@ -26,13 +26,16 @@
 ## Screenshots
 
 ### Main Page
-![Main Page](screenshots/app_main.png)
+<img width="959" height="439" alt="app_main" src="https://github.com/user-attachments/assets/a30b515f-978e-42d0-b342-43933f4c3f0d" />
 
 ### Chat Conversation
-![Chat](screenshots/app_chat.png)
+<img width="436" height="178" alt="app_chat" src="https://github.com/user-attachments/assets/44765f9d-c9b7-49f2-a5a0-96a80f6b2c4a" />
+<img width="418" height="212" alt="app chat2" src="https://github.com/user-attachments/assets/a2a5c9f1-3d2d-415c-a16b-6fc30b7e8805" />
+
 
 ### Sidebar with Contact Info
-![Sidebar](screenshots/app_sidebar.png)
+<img width="946" height="449" alt="app sidebar" src="https://github.com/user-attachments/assets/a6d2a501-fce5-446b-b969-567352c7c794" />
+
 
 ## Tech Used
 
